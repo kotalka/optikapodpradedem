@@ -34,6 +34,13 @@
 @import url('css/hamburgers.min.css');
 @import url('css/animate.css');
 
+
+#margin-sluzby {
+  margin-top: 30px;
+  margin-bottom: 30px;
+ 
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: normal;
