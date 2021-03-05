@@ -95,116 +95,170 @@
 		<div class="basic-breadcrumb-area gray-bg pt-70 pb-40">
 			<div class="container">
 				<div class="basic-breadcrumb text-center">
-					<h3 class="mb-30">Oční vady</h3>
-					<p class="text-justify">Oční vady, nebo také refrakční vady oka jsou vadami, které mají za následek zhoršené vidění na dálku či blízko, případně na obě vzdálenosti zároveň. Mezi nejčastější refrakční vady patří krátkozrakost způsobující špatné vidění do dálky. Další vadou je dalekozrakost způsobující špatné vidění do blízka a presbyopie, která se projevuje podobně ale jedná se o přirozenou vadu způsobeno věkem. Její nástup začneme pociťovat zpravidla kolem 40 roku věku a s přibývajícím věkem se pak dále zhoršuje. Poměrně hojně vyskytující se vadou je také astigmatismus způsobující zhoršené vidění na dálku i na blízko.</p>	
+					<h3 class="mb-30">Brýle Pro Seriózní Práci</h3>	
 				</div>
 			</div>
 		</div>
 		<!-- basic-breadcrumb end -->
 		<!-- basic-portfolio-area start -->
-		<div class="portfolio-details-area">
+		<div class="portfolio-details-area ptb-70">
 			<div class="container">
-
-				<div class="about-us-area ptb-70">
-					<div class="container">			
-						<div class="row col-md-12">
-							<!-- ABOUT TEXT -->
-							<div class="col-md-6">
-								<div class="about-text">
-									<h5>Krátkozrakost (myopie)</h5>
-									<p>Myopie, často také nazývána také krátkozrakost, je refrakční vadou oka, při které jsou blízké objekty viděny jasněji než objekty vzdálené. Tato oční vada je nejčastější příčinou zhoršeného vidění do dálky u věkové skupiny lidí do 40 let. V posledních letech je nárůst této refrakční vady alarmující.</p>
-								</div>
-							</div>
-							<!-- /ABOUT TEXT -->
-							<!-- PHOTO -->
-							<div class="col-md-6">
-								<div class="about-img hidden-sm hidden-xs">
-									<img src="img/vetchozrakost.jpg" alt="">
-								</div>
-							</div>
-							<!-- /PHOTO -->
-						</div>
-					</div>
-				</div>
-
-				<div class="gray-bg about-us-area prl-70 ptb-70">
-					<div class="container">			
-						<div class="row col-md-12">
-
-							<!-- PHOTO -->
-							<div class="col-md-6">
-								<div class="about-img hidden-sm hidden-xs">
-									<img src="img/kratkozrakost.jpg" alt="">
-								</div>
-							</div>
-							<!-- /PHOTO -->
-
-							<!-- ABOUT TEXT -->
-							<div class="col-md-6">
-								<div class="about-text">
-									<h5>Dalekozrakost (hypermetropie)</h5>
-									<p>Hypermetropie, někdy také nazývána jako dalekozrakost, je refrakční vadou oka, při které jsou vzdálené objekty viděny jasněji než objekty blízké. Tato vada nemusí být často rozpoznána zejména u mladých lidí. U lidí s vysokou hypermetropií může docházet k rozmazanému vidění na všechny vzdálenosti, tedy na blízko i na dálku. Touto refrakční vadou trpí zhruba čtvrtina populace.</p>
-								</div>
-							</div>
-							<!-- /ABOUT TEXT -->
+				<div class="row">
+					<div class="col-md-12">
+						<div class="portfolio-full-img">
 
 						</div>
 					</div>
 				</div>
+				<div class="row mt-70">
+					<div class="col-md-4">
+						<img src="img/portfolio/project1.jpg" alt="" />
+					</div>
+					<div class="col-md-8">
+						<div class="row multi-columns-row">
+							<div class="col-sm-6 col-md-6 mb-30">
+								<!-- <h5 class="font-alt m-t-0">Pár Slov</h5> -->
+								<p><strong>Chcete-li vnést důvěru mezi širokou škálu Vašich obchodních klientů a kolegů, je obvykle nejlepší 
+										zůstat u konzervativních tvarů a barev rámečků.</strong> </p>
+							</div>
 
-				<div class="about-us-area ptb-70">
-					<div class="container">			
-						<div class="row col-md-12">
-							<!-- ABOUT TEXT -->
-							<div class="col-md-6">
-								<div class="about-text">
-									<h5>Vetchozrakost (presbyopie)</h5>
-									<p>Řada lidí má to štěstí, že brýle nepotřebuje po většinu svého života. Všeho je ale do času. Počínaje 40 rokem života se u každého bez rozdílu začne projevovat presbyopie, často také nazývána jako vetchozrakost. Typickým příznakem je obtížnější zaostřování při pohledu do blízka na mobilní telefon, čtení knihy či novin.</p>
-								</div>
+							<div class="col-sm-6 col-md-6 mb-30">
+								<h5 class="font-alt m-t-0">Tvary</h5>
+								<p>Ovály, obdélníky a mandle, žádné jasné barvy ani neobvyklé tvary.</p>
 							</div>
-							<!-- /ABOUT TEXT -->
-							<!-- PHOTO -->
-							<div class="col-md-6">
-								<div class="about-img hidden-sm hidden-xs">
-									<img src="img/dalekozrakost.jpg" alt="">
-								</div>
+
+							<div class="col-sm-6 col-md-6 mb-30">
+								<h5 class="font-alt m-t-0">Barvy</h5>
+								<p>Zlatá, stříbrná, hnědá, šedá a černá se dobře hodí k nejrůznějším oblekům. 
+								Zlaté tóny, želví vzory a espresso jsou dobrou volbou pro obchodní oblečení pro ženy i muže.</p>
 							</div>
-							<!-- /PHOTO -->
+
+							<div class="col-sm-6 col-md-6 mb-30">
+								<h5 class="font-alt m-t-0">Materiály</h5>
+								<p>Plastové rámečky, nebo materiály rámu z titanu, či nerezové oceli můžou být dobrou volbou, stejně jako bezrámečkové typy brýlí.</p>
+							</div>
 						</div>
 					</div>
 				</div>
-
-				<div class="gray-bg about-us-area ptb-70">
-					<div class="container">			
-						<div class="row col-md-12">
-
-							<!-- PHOTO -->
-							<div class="col-md-6">
-								<div class="about-img hidden-sm hidden-xs">
-									<img src="img/astigmatizmus.jpg" alt="">
-								</div>
-							</div>
-							<!-- /PHOTO -->
-
-							<!-- ABOUT TEXT -->
-							<div class="col-md-6">
-								<div class="about-text">
-									<h5>Astigmatismus (cylindrická oční vada)</h5>
-									<p>Astigmatismus je typem refrakční vady oka, při které dochází k rozmazanému vidění na všechny vzdálenosti, tedy jak do blízka, tak do dálky. Tato refrakční vada je způsobena nepravidelným zakřivením rohovky ve vzácnějších případech může být způsobena zakřivením nitrooční čočky. Je to běžná refrakční vada. která se vyskytuje obvykle ve spojení s krátkozrakostí – myopií, nebo dalekozrakostí – hypermetropií.</p>
-								</div>
-							</div>
-							<!-- /ABOUT TEXT -->
-						</div>
-					</div>
-				</div>
-
-
-				
 			</div>
 		</div>
 		<!-- basic-portfolio-area end -->
 		
 		<div class="basic-separator"></div>
+		<!-- related-post-area start -->
+		<div class="related-post-area ptb-90">
+			<div class="container">
+				<div class="area-title text-center">
+					<h2>Související produkty</h2>
+					<p>Zvažte tyto možnosti, jak zlepšit svůj profesionální image.</p>
+				</div>
+			</div>
+			<div id="related-active" class="portfolio-style-2 portfolio-style-3 owl-carousel">
+				<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project5.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project5.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 7</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project4.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project4.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 8</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project2.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project2.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 9</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project5.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project5.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 7</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project4.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project4.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 8</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project2.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project2.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 9</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+			</div>
+		</div>
+		<!-- related-post-area end -->
 		
 		<!-- footer start -->
 		<footer>

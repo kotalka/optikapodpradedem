@@ -204,6 +204,24 @@ label {
 }
 .btn.white-btn:hover{border-color:#ddd;color:#ddd}
 
+.btn-mar {
+  margin-bottom: 5px;
+  min-width: 150px;
+}
+
+.btn-spe {
+  max-width: 160px;
+  min-width: 160px;
+}
+
+.btn-mz{
+  max-width: 140px;
+}
+
+.btn-col {
+  background-color: grey;
+}
+
 /* bg img part */
  .bg-1 {background: url(img/headerphoto.png);}
  .bg-2 { background: url(img/headerphoto.png);}
@@ -1350,10 +1368,11 @@ blockquote.single-blockquote p {
 .process-item-content {
     border-top: 1px solid #f2f2f2;
     position: relative;
-    padding: 30px
+    padding: 30px;
+    min-height: 280px;
 }
 .process-item-number {
-  background-color: #444;
+  background-color: black;
   border: 5px solid #fff;
   border-radius: 40px;
   color: #fff;
