@@ -315,3 +315,321 @@
         <script src="js/main.js"></script>
     </body>
 </html>
+
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Optika Pod Pradědem</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- favicon icon -->
+        <link rel="icon" href="img/favicon.png">
+       
+		<!-- All CSS Files Here -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/et-line-fonts.css">
+        <link rel="stylesheet" href="css/ionicons.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/meanmenu.css">
+        <link rel="stylesheet" href="css/global.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+		<!-- PRELOADER -->
+		<div class="page-loader">
+			<div class="loader">Loading...</div>
+		</div>
+		<!-- /PRELOADER -->        
+<!-- header start -->
+<header id="sticky-header">
+	<div class="header-area">
+		<div class="container sm-100">
+			<div class="row">
+				<div class="col-md-3 col-sm-2">
+					<div class="logo text-upper">
+						<h4><a href="index.html">Optika Pod Pradědem</a></h4>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-10">
+					<div class="menu-area hidden-xs">
+						<nav>
+							<ul class="basic-menu clearfix">
+								<!-- <li><a href="about.html">O Nás</a></li> -->
+								<!-- PORTFOLIO -->
+								<li><a href="index.html">Domů</a>
+								</li>
+								<li>
+									<a href="index.html#aktualne">Aktuálně</a>
+								</li>
+								<!-- END PORTFOLIO -->
+								<li><a href="index.html#pro-vas">Poradíme vám</a></li>                                       
+								<!-- BLOG -->
+								<li>
+									<a href="index.html#vybereme-bryle">Vybereme brýle</a>
+								</li>
+								<!-- END BLOG -->
+								<li><a href="index.html#kontaktujte-nas">Kontaktujte nás</a></li>
+							</ul>
+						</nav>							
+					</div>
+					<!-- basic-mobile-menu --> 
+					<div class="basic-mobile-menu visible-xs">
+						<nav id="mobile-nav">
+							<ul>
+								<li><a href="index.html">Domů</a>
+								</li>
+								<li>
+									<a href="index.html#aktualne">Aktuálně</a>
+								</li>
+								<!-- END PORTFOLIO -->
+								<li><a href="index.html#pro-vas">Poradíme vám</a></li>                                       
+								<!-- BLOG -->
+								<li>
+									<a href="index.html#vybereme-bryle">Vybereme brýle</a>
+								</li>
+								<!-- END BLOG -->
+								<li><a href="index.html#kontaktujte-nas">Kontaktujte nás</a></li>
+							</ul>
+						</nav>
+					</div>									
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<!-- header end -->
+		<!-- <div class="basic-space"></div> -->
+		
+		<!-- basic-breadcrumb start -->
+		<div class="basic-breadcrumb-area gray-bg pt-70 pb-40">
+			<div class="container">
+				<div class="basic-breadcrumb text-center">
+					<h3 class="mb-30">Brýle Pro Víkendové Sportovce</h3>
+				</div>
+			</div>
+		</div>
+		<!-- basic-breadcrumb end -->
+		<!-- basic-portfolio-area start -->
+		<div class="portfolio-details-area ptb-70">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="portfolio-full-img">
+
+						</div>
+					</div>
+				</div>
+				<div class="row mt-70">
+					<div class="col-md-4">
+						<img src="img/portfolio/project3.jpg" alt="" />
+					</div>
+					<div class="col-md-8">
+						<div class="row multi-columns-row">
+							<div class="col-sm-6 col-md-6 mb-30">
+								<!-- <h5 class="font-alt m-t-0">Pár Slov</h5> -->
+								<p><strong>Většina dospělých žije dvojí život. Svůj běžný pracovní den a často aktivnější život o víkendech.
+                                    Stejně jako jsou společenské boty nevhodným obutím pro tělocvičnu, mohou být špatnou volbou pro sport i brýle, které běžně nosíte v práci.
+                                </strong></p>
+							</div>
+
+							<div class="col-sm-6 col-md-6 mb-30">
+								<h5 class="font-alt m-t-0">Tvary</h5>
+								<p>Pro nejlepší pohodlí a bezpečnost při aktivním nošení i ve volném čase si vyberte alespoň jeden pár slunečních brýlí, sportovních brýlí nebo dokonce jen ležérnější rámeček brýlí se sportovním podtextem.
+                                </p>
+							</div>
+
+							<div class="col-sm-6 col-md-6 mb-30">
+								<h5 class="font-alt m-t-0">Barvy</h5>
+								<p>Sportovní vzhled může zahrnovat jasné barvy a vzory.</p>
+							</div>
+
+							<div class="col-sm-6 col-md-6 mb-30">
+								<h5 class="font-alt m-t-0">Materiály</h5>
+								<p>Moderní kombinace kovových a plastových materiálů.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- basic-portfolio-area end -->
+		
+		<div class="basic-separator"></div>
+		<!-- related-post-area start -->
+		<div class="related-post-area ptb-90">
+			<div class="container">
+				<div class="area-title text-center">
+					<h2>Související produkty</h2>
+					<p>Pomůžeme Vám vybrat ty nejlepší rámečky brýlí pro vaše sportovní vyžití a potřeby aktivního životního stylu.</p>
+				</div>
+			</div>
+			<div id="related-active" class="portfolio-style-2 portfolio-style-3 owl-carousel">
+				<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project5.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project5.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 7</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project4.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project4.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 8</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project2.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project2.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 9</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project5.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project5.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 7</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project4.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project4.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 8</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="portfolio-item mamyatatove">
+						<div class="portfolio-wrapper">
+							<div class="portfolio-thumb">
+								<img src="img/portfolio/project2.jpg" alt="" />
+								<div class="view-icon">
+									<a class="popup-link" href="img/portfolio/project2.jpg"><span class="icon-focus"></span></a>
+								</div>
+							</div>
+							<div class="portfolio-caption text-center">
+								<h4><a href="portfolio-single.html">Brýle 9</a></h4>
+								<div class="work-tag">
+									<a href="#">Design</a>,
+									<a href="#">Seriozní</a>
+								</div>
+							</div>
+						</div>
+					</div>
+			</div>
+		</div>
+		<!-- related-post-area end -->
+		
+		<!-- footer start -->
+		<footer>
+			<div class="basic-footer text-center ptb-90">
+				<div class="container">
+					<!-- basic-contact-area -->
+		<div class="basic-contact-area pt-0 pb-30">
+			<div class="container">
+						<div class="social-icon text-center col-12">
+							<a href="#"><i class="ion-social-facebook"></i></a>
+							<a href="#"><i class="ion-social-instagram"></i></a>
+						</div>
+			</div>
+		</div>
+		<!-- basic-contact-area end -->	
+					<div class="footer-menu">
+						<nav>
+							<ul>
+								<li><a href="index.html">Domů</a></li>
+								<li><a href="index.html#aktualne">Aktuálně</a></li>
+								<li><a href="index.html#pro-vas">Poradíme vám</a></li>
+								<li><a href="index.html#vybereme-bryle">Vybereme brýle</a></li>				
+								<!-- <li><a href="blog-classic-left-sidebar.html">Aktuality</a></li>
+								<li><a href="contact.html">Kontaktujte nás</a></li> -->
+							</ul>
+						</nav>
+					</div>
+					<div class="copyright mt-20">
+						<p>2021 © OPTIKA POD PRADĚDEM | Navrženo <a href="#">KARIKO</a></p>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- footer end -->
+
+		
+		<!-- All js plugins here -->
+        <script src="js/vendor/jquery-1.12.0.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/jquery.meanmenu.js"></script>
+        <script src="js/plugins.js"></script>
+		<script type="text/javascript">
+			// grab an element
+			var myElement = document.querySelector(".headroom");
+			// construct an instance of Headroom, passing the element
+			var headroom  = new Headroom(myElement);
+			// initialise
+			headroom.init(); 
+		</script>		
+        <script src="js/main.js"></script>
+    </body>
+</html>
