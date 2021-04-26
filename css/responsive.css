@@ -1,6 +1,15 @@
 /*--------- Medium devices -----------*/
 @media (min-width: 992px) and (max-width: 1200px) {
 
+  .header-nadpis-h1 {
+    font-size: 33px;
+  }
+  
+  .header-nadpis-h2 {
+    font-size: 31px;
+    margin-bottom:20px;
+    margin-top:10px;
+  }
 
 }
 
@@ -23,6 +32,16 @@
 }
 .portfolio-view-btn {
   margin-bottom: 30px;
+}
+
+.header-nadpis-h1 {
+  font-size: 33px;
+}
+
+.header-nadpis-h2 {
+  font-size: 31px;
+  margin-bottom:20px;
+  margin-top:10px;
 }
 
 
@@ -124,6 +143,15 @@
   width: 50%;
 }
 
+.header-nadpis-h1 {
+  font-size: 33px;
+}
+
+.header-nadpis-h2 {
+  font-size: 31px;
+  margin-bottom:20px;
+  margin-top:10px;
+}
 
  
 }
