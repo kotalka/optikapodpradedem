@@ -31,6 +31,7 @@
  
 /*------------ Extra small devices ------------*/
 @media (max-width: 767px) {
+
 .basic-menu li {
   margin-left: 0;
 }
@@ -113,5 +114,16 @@
 .portfolio-grid-4 .portfolio-item {
   width: 50%;
 }
+
+.header-nadpis-h1 {
+  font-size: 48px;
+}
+
+.header-nadpis-h2 {
+  font-size: 40px;
+  margin-bottom:20px;
+  margin-top:10px;
+}
+
  
 }
