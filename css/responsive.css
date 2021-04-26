@@ -1,15 +1,6 @@
 /*--------- Medium devices -----------*/
 @media (min-width: 992px) and (max-width: 1200px) {
 
-  .header-nadpis-h1 {
-    font-size: 48px;
-  }
-  
-  .header-nadpis-h2 {
-    font-size: 40px;
-    margin-bottom:20px;
-    margin-top:10px;
-  }
 
 }
 
@@ -32,16 +23,6 @@
 }
 .portfolio-view-btn {
   margin-bottom: 30px;
-}
-
-.header-nadpis-h1 {
-  font-size: 48px;
-}
-
-.header-nadpis-h2 {
-  font-size: 40px;
-  margin-bottom:20px;
-  margin-top:10px;
 }
 
 
@@ -119,15 +100,14 @@
 }
 
 .header-nadpis-h1 {
-  font-size: 48px;
+  font-size: 38px;
 }
 
 .header-nadpis-h2 {
-  font-size: 40px;
+  font-size: 31px;
   margin-bottom:20px;
   margin-top:10px;
 }
-
 
  
 }
@@ -144,15 +124,6 @@
   width: 50%;
 }
 
-.header-nadpis-h1 {
-  font-size: 48px;
-}
-
-.header-nadpis-h2 {
-  font-size: 40px;
-  margin-bottom:20px;
-  margin-top:10px;
-}
 
  
 }
