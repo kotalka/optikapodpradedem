@@ -25,6 +25,16 @@
   margin-bottom: 30px;
 }
 
+.header-nadpis-h1 {
+  font-size: 48px;
+}
+
+.header-nadpis-h2 {
+  font-size: 40px;
+  margin-bottom:20px;
+  margin-top:10px;
+}
+
 
 }
 
@@ -97,6 +107,16 @@
 }
 .slider-screen {
   height: 50vh;
+}
+
+.header-nadpis-h1 {
+  font-size: 48px;
+}
+
+.header-nadpis-h2 {
+  font-size: 40px;
+  margin-bottom:20px;
+  margin-top:10px;
 }
 
 
